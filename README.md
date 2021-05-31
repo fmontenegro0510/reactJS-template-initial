@@ -1,13 +1,9 @@
 
-# ReactJS Template Initial
+# ReactJS Initial Template 
 
 Un template para comenzar mis practicas con ReactJS y facilitar el inicio de un nuevo proyecto.
 
 ## Comenzando 🚀
-
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
 ### Pre-requisitos 📋
 
 _Tener instalado NodeJS 12.+ y NPM 7.+_
