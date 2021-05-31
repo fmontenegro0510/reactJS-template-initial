@@ -26,5 +26,3 @@ npm i
 ```
 
 _Para la instalacion de los node_modules en caso q se necesite._
-
-> Written with [StackEdit](https://stackedit.io/).
