@@ -25,8 +25,6 @@ npm -v
 
 _Una vez clonado el repositorio ejecutar :_
 
-_Dí cómo será ese paso_
-
 ```
 npm i
 ```
